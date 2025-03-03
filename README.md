@@ -1,5 +1,3 @@
-# Bank-OTP
-Bank OTP project that simulates the login process of a bank application.
 # Bank Login System with OTP
 
 ## Overview
@@ -16,7 +14,10 @@ The backend was written using **.NET**. For this proof-of-concept, an in-memory 
 
 ## Screenshots
 
-*(Insert Screenshots here)*
+![image](https://github.com/user-attachments/assets/cedc4628-bfe4-469c-ad49-83fb275afbd7)
+![image](https://github.com/user-attachments/assets/fc96cea6-f479-4ef3-b456-4250da59274d)
+![image](https://github.com/user-attachments/assets/61aff540-b4fc-410d-8095-cb4863846a47)
+
 
 
 # API Endpoints Documentation
