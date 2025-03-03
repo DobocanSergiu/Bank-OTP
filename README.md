@@ -10,7 +10,7 @@ The frontend was written using **ReactJS**. For the toast message component, I u
 
 ## Backend
 
-The backend was written using **.NET**. For this proof-of-concept, an in-memory database is used to save user information. The passwords are hashed using **SHA-256**. For the generation of the OTP codes, I used [Otp.NET](https://www.nuget.org/packages/Otp.NET/1.2.2).
+The backend was written using **.NET**. For this proof-of-concept, an in-memory database is used to save user information. The passwords are hashed using **SHA-256** and client-server / server-client communication is secured thanks to HTTPS. For the generation of the OTP codes, I used [Otp.NET](https://www.nuget.org/packages/Otp.NET/1.2.2).
 
 ## Screenshots
 
