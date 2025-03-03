@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap");
+
+.otpPageContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.header {
+  font-family: "DM Mono", monospace;
+  font-size: 32px;
+  font-weight: bold;
+}
+.inputTextBox {
+  margin: 2em;
+  width: 10em;
+  height: 3em;
+  font-size: 1.5em;
+  font-family: "DM Mono", monospace;
+  border: 2px solid rgb(103, 40, 206);
+  border-radius: 8px;
+}
+
+.otpError {
+  color: red;
+  font-family: "DM Mono", monospace;
+  font-size: 1em;
+}
+.inputButton {
+  font-family: "DM Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+  margin: 0.5em;
+  background-color: rgb(103, 40, 206);
+  color: rgb(255, 255, 255);
+  border-radius: 8px;
+  border: none;
+  font-size: 1.5em;
+  transition: background-color 0.25s;
+}
+
+.inputButton:hover {
+  background-color: rgb(184, 34, 255);
+  cursor: pointer;
+}
+
+.dmMonoRegular {
+  font-family: "DM Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
